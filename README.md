@@ -9,13 +9,15 @@ This GitHub profile serves as a **portfolio hub** and contains:
 - 🐍 Small Python projects
 - 🌐 Links to my longer-form writing and website
 
+
 ## 👀 How to Read my GitHub profile
 
 If you’re reviewing this profile as a recruiter, here’s a quick guide to navigating it:
 - **If you’re hiring for a Technical Writer role** → start with [`tech-writing/`](https://github.com/interstellardrumbeat/tech-writing). Examples of documentation aimed at developer tools, scientific software, and technical products. These samples focus on clarity, structure, and user-centered writing.
 - **If you’re hiring for a Scientific / Research Writer role** → see [`academic-writing/`](https://github.com/interstellardrumbeat/academic-writing). This section contains formal scientific writing, peer-reviewed papers, and long-form research communication (all in one file, my PhD thesis).
 - **If you’re assessing technical fluency or scripting ability** → check [`python-projects/`](https://github.com/interstellardrumbeat/python-projects). These are small, well-documented projects meant to show practical Python usage.
-- **For broader context** (writing style, content creation, and published articles) → see the [links](#external-links-and-contacts) to my Medium profile and website.
+- **For broader context** (writing style, general communication skills, content creation and published articles) → see the [links](#external-links-and-contacts) to my Medium profile and website.
+
 
 ## 📁 Repository Structure
 
@@ -35,8 +37,10 @@ If you’re reviewing this profile as a recruiter, here’s a quick guide to nav
 └── README.md
 ```
 
+
 ## External Links and Contacts
 
 - ✍️ [Medium](#temp)
 - 🌍 [Website](#temp)
 - 💼 [LinkedIn](https://www.linkedin.com/in/domenico-prudenzano)
+- ▶️ [Youtube channel (inactive)](https://www.youtube.com/@nerdologicdom)
