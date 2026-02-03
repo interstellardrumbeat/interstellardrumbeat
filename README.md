@@ -1,5 +1,6 @@
 ## Domenico Prudenzano 👋
-**Scientific & Technical Writer | PhD in Physics**
+
+#### Scientific & Technical Writer | PhD in Physics
 
 I’m a **scientific and technical writer with a background in Physics (PhD) and Chemistry (Bachelor and Master's degrees)** and hands-on experience with coding and science communication. I like to work at the intersection of **technology, research, and documentation** and also enjoy creating science- and tech-related content for general audiences. I focus on turning complex topics into clear, usable, and well-structured material.
 
