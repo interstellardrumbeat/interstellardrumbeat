@@ -1,7 +1,7 @@
 ## Domenico Prudenzano 👋
 **Scientific & Technical Writer | PhD in Physics**
 
-I’m a **scientific and technical writer with a background Physics (PhD) and in Chemistry (Bachelor and Master's degrees)**. I like to work at the intersection of **technology, research, and documentation** and also enjoy creating science- and tech-related content for general audiences. My focus is on turning complex topics into clear, usable, and well-structured material.
+I’m a **scientific and technical writer with a background in Physics (PhD) and Chemistry (Bachelor and Master's degrees)** and hands-on experience with coding and science communication. I like to work at the intersection of **technology, research, and documentation** and also enjoy creating science- and tech-related content for general audiences. I focus on turning complex topics into clear, usable, and well-structured material.
 
 This GitHub profile serves as a **portfolio hub** and contains:
 - 📘 Technical writing samples
