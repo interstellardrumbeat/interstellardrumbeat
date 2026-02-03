@@ -43,4 +43,4 @@ If you’re reviewing this profile as a recruiter, here’s a quick guide to nav
 - ✍️ [Medium](#temp)
 - 🌍 [Website](#temp)
 - 💼 [LinkedIn](https://www.linkedin.com/in/domenico-prudenzano)
-- ► [Youtube channel (archive)](https://www.youtube.com/@nerdologicdom)
+- 🎥 [Youtube channel (archive)](https://www.youtube.com/@nerdologicdom)
