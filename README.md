@@ -14,13 +14,11 @@ This GitHub profile serves as a **portfolio hub** and contains:
 ## 👀 How to Read my GitHub profile
 
 If you’re reviewing this profile as a recruiter, here’s a quick guide to navigating it:
-- **For Technical Writer roles** → start with:
+- **For Technical Writer roles** → start with one of the following:
   - [`tech-writing/`](https://github.com/interstellardrumbeat/tech-writing) - Documentation samples for developer tools and technical products, focused on clarity, structure, and user-centered writing.
   - [`python-projects/`](https://github.com/interstellardrumbeat/python-projects) - Small Python projects with clear READMEs, demonstrating software-related documentation and technical fluency.
-- **For Scientific / Medical / Research Writer roles** → see:
-  - [`academic-writing/`](https://github.com/interstellardrumbeat/academic-writing) - Formal scientific writing and long-form research communication, provided as a PhD thesis by publication including first-author peer-reviewed papers.
-- **For technical fluency or scripting ability** → check:
-  - [`python-projects/`](https://github.com/interstellardrumbeat/python-projects) - Practical Python usage, readable code, and reproducible results.
+- **For Scientific / Medical / Research Writer roles** → see [`academic-writing/`](https://github.com/interstellardrumbeat/academic-writing) - Formal scientific writing and long-form research communication, provided as a PhD thesis by publication including first-author peer-reviewed papers.
+- **For technical fluency or scripting ability** → check [`python-projects/`](https://github.com/interstellardrumbeat/python-projects) - Practical Python usage, readable code, and reproducible results.
 - **For broader context** (writing style, general communication skills, content creation and published articles) → see the [links](#-external-links--contacts) to my Medium profile and website.
 
 &nbsp;
