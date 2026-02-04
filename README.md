@@ -7,7 +7,7 @@ I’m a scientific and technical writer with a **background** in **Physics (PhD)
 This GitHub profile serves as a **portfolio hub** and contains:
 - 📘 Technical writing samples
 - 📄 Academic / scientific writing
-- 🐍 Small Python projects
+- 🐍 Small Python projects & related documentation
 - 🌐 Links to my longer-form writing and website
 
 &nbsp;
