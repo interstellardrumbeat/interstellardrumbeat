@@ -27,6 +27,7 @@ If you’re reviewing this profile as a recruiter, here’s a quick guide to nav
 /
 ├── tech-writing/
 │   ├── README.md
+│   ├── spectrometer-json/
 │   └── guides/
 │
 ├── academic-writing/
@@ -34,6 +35,7 @@ If you’re reviewing this profile as a recruiter, here’s a quick guide to nav
 │
 ├── python-projects/
 │   ├── README.md
+│   ├── lyrics-scraper/
 │   └── ACS-poly-fit-main/
 │
 └── README.md
