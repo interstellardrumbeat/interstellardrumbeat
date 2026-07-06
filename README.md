@@ -1,36 +1,52 @@
 ## Domenico Prudenzano 👋
 
-### Data Scientist | PhD in Physics
+### IB Chemistry Teacher & Tutor | PhD in Physics (Chemical Physics)
 
-I’m a scientist and data passionate with a **background** in **Physics (PhD)** and **Chemistry (Bachelor and Master's degrees)** and hands-on experience with **coding and science communication**. I like to work at the intersection of **technology, research, and data** and also enjoy creating science- and tech-related content for general audiences. 
+I’m a science educator, tutor, and former researcher with a strong academic background in **Chemistry** and **Physics**. I hold a **PhD in Physics (Chemical Physics)** and **Bachelor’s and Master’s degrees in Chemistry**.
+I now focus on helping students understand chemistry with clarity, structure, and confidence.
+
+My work sits at the intersection of **science education, technology, coding, and communication**. I am especially interested in creating learning resources and digital tools that support **IB Chemistry students**.
 
 My background includes:
 
-- Data analysis and statistical modeling in Python and IDL
-- Machine learning using scikit-learn (currently experimenting with PyTorch)
-- Scientific computing and numerical methods
-- Data processing with Python and SQL
-- Reproducible research and results, including technical documentation
-- Communicating complex technical concepts to both specialist and non-specialist audiences
+* Teaching and tutoring chemistry, with a focus on the IB syllabus and exam preparation
+* Explaining complex scientific concepts to students and non-specialist audiences
+* Chemistry and physics research experience at academic level
+* Data analysis, scientific computing, and statistical modeling in Python and IDL
+* Reproducible research, technical documentation, and scientific writing
+* Developing educational and science-related coding projects
+* Creating long-form science communication content for general audiences
 
-This GitHub profile serves as a **portfolio hub** and contains:
-- 🐍 Python projects & related documentation
-- 📘 Technical writing samples
-- 📄 Academic / scientific results
-- 🌐 Links to my long-form writing
+This GitHub profile serves as a **hub** for my work across science education and communication, technical documentation and coding. It contains:
 
-&nbsp;
-## 👀 How to Read my GitHub profile
+* 🧪 Chemistry- and science-related educational material
+* 🐍 Python projects and documentation
+* 📘 Technical writing material (guides and tutorial)
+* 📄 Academic and scientific writing
+* 🌐 Links to my long-form science communication work
 
-If you’re reviewing this profile as a recruiter, here’s a quick guide to navigating it:
-- **For coding fluency and ability** → check [`python-projects/`](https://github.com/interstellardrumbeat/python-projects) - Practical Python usage, readable code, and reproducible results.
-- **For technical writing and documentation literacy** → check one of the following:
-  - [`tech-writing/`](https://github.com/interstellardrumbeat/tech-writing) - Samples for technical products, specific documentation (API, software, instrumentation) and data formats.
-  - [`python-projects/`](https://github.com/interstellardrumbeat/python-projects) - Each Python project includes clear READMEs, demonstrating software-related documentation and technical fluency.
-- **For Scientific / Research Writer roles** → see [`academic-writing/`](https://github.com/interstellardrumbeat/academic-writing) - Formal scientific writing and long-form research results (provided as a PhD thesis by publication, including first-author peer-reviewed papers).
-- **For broader context** (writing style, general/science communication skills, content creation) → see the [links](#-external-links--contacts) to my Substack profile.
-&nbsp;
-## 📁 Repository Structure
+## How to Read My GitHub Profile
+
+If you are visiting this profile as a student, parent, school, tutoring organization, or education-focused collaborator, here is a quick guide to navigating it:
+
+* **For chemistry teaching, tutoring, and educational tools** → a dedicated IB Chemistry repository will be added soon. It will contain a tool I am developing to support IB Chemistry students.
+
+* **For coding fluency and educational technology potential** → check [`python-projects/`](https://github.com/interstellardrumbeat/python-projects)
+  This repository shows practical Python usage, readable code, reproducible results, and related documentation.
+
+* **For technical writing and documentation skills** → check one of the following:
+
+  * [`tech-writing/`](https://github.com/interstellardrumbeat/tech-writing)
+    Samples of technical documentation for software, instrumentation, APIs, and structured data formats.
+  * [`python-projects/`](https://github.com/interstellardrumbeat/python-projects)
+    Each Python project includes clear READMEs and documentation.
+
+* **For academic and scientific background** → see [`academic-writing/`](https://github.com/interstellardrumbeat/academic-writing)
+  This repository contains formal scientific writing and long-form research results, including my PhD thesis by publication and first-author peer-reviewed papers.
+
+* **For broader science communication work** → see the [external links](#-external-links--contacts) to my Substack and archived YouTube channel.
+
+## Repository Structure
 
 ```
 /
@@ -47,12 +63,14 @@ If you’re reviewing this profile as a recruiter, here’s a quick guide to nav
 ├── academic-writing/
 │   └── README.md
 │
+├── ib-chemistry-tools/        # Coming soon
+│   └── README.md
+│
 └── README.md
 ```
 
-&nbsp;
 ## 🌐 External Links & Contacts
 
-- ✍️ [Substack](https://nerdologic.substack.com/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/domenico-prudenzano)
-- 🎥 [Youtube channel (archive)](https://www.youtube.com/@nerdologicdom)
+* ✍️ [Substack](https://nerdologic.substack.com/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/domenico-prudenzano)
+* 🎥 [YouTube channel (archive)](https://www.youtube.com/@nerdologicdom)
