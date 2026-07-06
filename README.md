@@ -69,7 +69,7 @@ If you are visiting this profile as a student, parent, school, tutoring organiza
 └── README.md
 ```
 
-## 🌐 External Links & Contacts
+## External Links & Contacts
 
 * ✍️ [Substack](https://nerdologic.substack.com/)
 * 💼 [LinkedIn](https://www.linkedin.com/in/domenico-prudenzano)
