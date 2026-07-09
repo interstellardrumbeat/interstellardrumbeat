@@ -5,11 +5,11 @@
 I’m a science educator, tutor, and former researcher with a strong academic background in **Chemistry** and **Physics**. I hold a **PhD in Physics (Chemical Physics)** and **Bachelor’s and Master’s degrees in Chemistry**.
 I now focus on helping students understand chemistry with clarity, structure, and confidence.
 
-My work sits at the intersection of **science education, technology, coding, and communication**. I am especially interested in creating learning resources and digital tools that support **IB Chemistry students**.
+I like to juggle my free time between **science education, technology, coding, and communication**. I am especially interested in creating learning resources and digital tools that support **IB Chemistry and Physics students**.
 
 My background includes:
 
-* Teaching and tutoring chemistry, with a focus on the IB syllabus and exam preparation
+* Teaching and tutoring chemistry and physics, with a focus on the IB syllabus and exam preparation
 * Explaining complex scientific concepts to students and non-specialist audiences
 * Chemistry and physics research experience at academic level
 * Data analysis, scientific computing, and statistical modeling in Python and IDL
@@ -29,7 +29,8 @@ This GitHub profile serves as a **hub** for my work across science education and
 
 If you are visiting this profile as a student, parent, school, tutoring organization, or education-focused collaborator, here is a quick guide to navigating it:
 
-* **For chemistry teaching, tutoring, and educational tools** → a dedicated IB Chemistry repository will be added soon. It will contain a tool I am developing to support IB Chemistry students.
+* **For chemistry teaching, tutoring, and educational tools** → visit [`ib-science-tools/`](https://github.com/interstellardrumbeat/ib-science-tools)
+  It contains a list of all the tools I am developing to support IB Chemistry and Physics students.
 
 * **For coding fluency and educational technology potential** → check [`python-projects/`](https://github.com/interstellardrumbeat/python-projects)
   This repository shows practical Python usage, readable code, reproducible results, and related documentation.
@@ -63,7 +64,10 @@ If you are visiting this profile as a student, parent, school, tutoring organiza
 ├── academic-writing/
 │   └── README.md
 │
-├── ib-chemistry-tools/        # Coming soon
+├── ib-science-tools/
+│   └── README.md
+│
+├── what-should-i-revise/
 │   └── README.md
 │
 └── README.md
