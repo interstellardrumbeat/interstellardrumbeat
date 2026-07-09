@@ -2,76 +2,58 @@
 
 ### IB Chemistry Teacher & Tutor | PhD in Physics (Chemical Physics)
 
-I’m a science educator, tutor, and former researcher with a strong academic background in **Chemistry** and **Physics**. I hold a **PhD in Physics (Chemical Physics)** and **Bachelor’s and Master’s degrees in Chemistry**.
+I’m a science educator, IB Chemistry teacher and tutor, and former academic researcher with a strong background in **Chemistry** and **Physics**. I hold a **PhD in Physics (Chemical Physics)** and **Bachelor’s and Master’s degrees in Chemistry**.
 I now focus on helping students understand chemistry with clarity, structure, and confidence.
 
-I like to juggle my free time between **science education, technology, coding, and communication**. I am especially interested in creating learning resources and digital tools that support **IB Chemistry and Physics students**.
+I like to juggle my time between **education, technology, and communication**. I am especially interested in creating learning resources and digital tools that support **IB Chemistry and Physics students**.
 
 My background includes:
 
 * Teaching and tutoring chemistry and physics, with a focus on the IB syllabus and exam preparation
 * Explaining complex scientific concepts to students and non-specialist audiences
-* Chemistry and physics research experience at academic level
-* Data analysis, scientific computing, and statistical modeling in Python and IDL
-* Reproducible research, technical documentation, and scientific writing
-* Developing educational and science-related coding projects
+* Academic research experience spanning Chemistry, Chemical Physics, and Astrophysics
+* Python development, technical documentation, and scientific writing
+* Developing free educational tools and learning resources for science students
 * Creating long-form science communication content for general audiences
 
-This GitHub profile serves as a **hub** for my work across science education and communication, technical documentation and coding. It contains:
+This GitHub profile serves as a **hub** for my educational tools, science education projects, coding work, technical documentation, and scientific communication.. It contains:
 
-* 🧪 Chemistry- and science-related educational material
-* 🐍 Python projects and documentation
-* 📘 Technical writing material (guides and tutorial)
+* 🧪 Educational tools for IB Chemistry and Physics
+* 🐍 Python projects and scientific computing
+* 📘 Technical writing and documentation
 * 📄 Academic and scientific writing
-* 🌐 Links to my long-form science communication work
+* 🌐 Links to my science communication work
 
 ## How to Read My GitHub Profile
 
 If you are visiting this profile as a student, parent, school, tutoring organization, or education-focused collaborator, here is a quick guide to navigating it:
 
-* **For chemistry teaching, tutoring, and educational tools** → visit [`ib-science-tools/`](https://github.com/interstellardrumbeat/ib-science-tools)
-  It contains a list of all the tools I am developing to support IB Chemistry and Physics students.
+### Educational tools for IB Chemistry and Physics
 
-* **For coding fluency and educational technology potential** → check [`python-projects/`](https://github.com/interstellardrumbeat/python-projects)
-  This repository shows practical Python usage, readable code, reproducible results, and related documentation.
+Visit [`ib-science-tools/`](https://github.com/interstellardrumbeat/ib-science-tools), the central hub for the free educational tools I develop to support IB Chemistry and Physics students.
 
-* **For technical writing and documentation skills** → check one of the following:
+Current projects include:
 
-  * [`tech-writing/`](https://github.com/interstellardrumbeat/tech-writing)
-    Samples of technical documentation for software, instrumentation, APIs, and structured data formats.
-  * [`python-projects/`](https://github.com/interstellardrumbeat/python-projects)
-    Each Python project includes clear READMEs and documentation.
+* [`what-should-i-revise/`](https://github.com/interstellardrumbeat/what-should-i-revise) — a diagnostic self-assessment tool designed to help IB Chemistry students (and in the future Physics, too) identify which topics and subtopics they should prioritize for revision.
 
-* **For academic and scientific background** → see [`academic-writing/`](https://github.com/interstellardrumbeat/academic-writing)
-  This repository contains formal scientific writing and long-form research results, including my PhD thesis by publication and first-author peer-reviewed papers.
+### Python projects & scientific computing
 
-* **For broader science communication work** → see the [external links](#-external-links--contacts) to my Substack and archived YouTube channel.
+Visit [`python-projects/`](https://github.com/interstellardrumbeat/python-projects) for projects demonstrating practical Python usage, readable code, reproducible results, and supporting documentation.
 
-## Repository Structure
+### Technical writing & documentation
 
-```
-/
-├── python-projects/
-│   ├── README.md
-│   ├── lyrics-scraper/
-│   └── ACS-poly-fit-main/
-│
-├── tech-writing/
-│   ├── README.md
-│   ├── spectrometer-json/
-│   └── guides/
-│
-├── academic-writing/
-│   └── README.md
-│
-├── ib-science-tools/
-│   └── README.md
-│
-├── what-should-i-revise/
-│   └── README.md
-│
-└── README.md
-```
+Visit:
+
+* [`tech-writing/`](https://github.com/interstellardrumbeat/tech-writing) for samples of technical documentation covering software, instrumentation, APIs, and structured data formats.
+* [`python-projects/`](https://github.com/interstellardrumbeat/python-projects) for documented Python projects with clear READMEs and usage instructions.
+
+### Academic & Scientific writing
+
+Visit [`academic-writing/`](https://github.com/interstellardrumbeat/academic-writing) for formal scientific writing and long-form research outputs, including my PhD thesis by publication and first-author peer-reviewed papers.
+
+### Science Communication
+
+See the external links below for my long-form science communication work, including Substack articles and my archived YouTube channel.
 
 ## External Links & Contacts
 
