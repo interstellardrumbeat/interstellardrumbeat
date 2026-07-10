@@ -49,7 +49,7 @@ Visit:
 
 ### Academic & Scientific writing
 
-Visit [`academic-writing/`](https://github.com/interstellardrumbeat/academic-writing) for formal scientific writing and long-form research outputs, including my PhD thesis by publication and first-author peer-reviewed papers.
+Visit [`academic-writing/`](https://github.com/interstellardrumbeat/academic-writing) for more details about my background, formal scientific writing and long-form research outputs, including my PhD thesis by publication and first-author peer-reviewed papers.
 
 ### Science Communication
 
