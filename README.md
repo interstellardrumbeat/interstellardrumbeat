@@ -16,7 +16,8 @@ My background includes:
 * Developing free educational tools and learning resources for science students
 * Creating long-form science communication content for general audiences
 
-This GitHub profile serves as a **hub** for my educational tools, science education projects, coding work, technical documentation, and scientific communication.. It contains:
+This GitHub profile serves as a **hub** for my educational tools, science education projects, coding work, technical documentation, and scientific communication.
+It contains:
 
 * 🧪 Educational tools for IB Chemistry and Physics
 * 🐍 Python projects and scientific computing
