@@ -2,7 +2,7 @@
 
 ### IB Teacher & Tutor | PhD in Physics (Chemical Physics)
 
-I’m a science educator, IB Chemistry and Physics teacher and tutor, and former academic researcher with a strong background in **Chemistry** and **Physics**. I hold a **PhD in Physics (Chemical Physics)** and **Bachelor’s and Master’s degrees in Chemistry**.
+I’m a science educator, IB Chemistry and Physics teacher and tutor, and former academic researcher. I hold a **PhD in Physics (Chemical Physics)** and **Bachelor’s and Master’s degrees in Chemistry**.
 I now focus on helping students understand chemistry and physics with clarity, structure, and confidence.
 
 I like to juggle my time between **education, technology, and communication**. I am especially interested in creating learning resources and digital tools that support **IB Chemistry and Physics students**.
