@@ -9,7 +9,7 @@ I like to juggle my time between **education, technology, and communication**. I
 
 My background includes:
 
-* Teaching and tutoring chemistry and physics, with a focus on the IB syllabus and exam preparation
+* Teaching and tutoring chemistry and physics, with a focus on the IB syllabus and exam preparation (but also MYP/GCSE maths)
 * Explaining complex scientific concepts to students and non-specialist audiences
 * Academic research experience spanning Chemistry, Chemical Physics, and Astrophysics
 * Python development, technical documentation, and scientific writing
