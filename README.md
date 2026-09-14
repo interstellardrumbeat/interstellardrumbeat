@@ -1,15 +1,15 @@
 ## Domenico Prudenzano 👋
 
-### IB Teacher & Tutor | PhD in Physics (Chemical Physics)
+### Teacher & Tutor | PhD in Physics (Chemical Physics)
 
-I’m a science educator, IB Chemistry and Physics teacher and tutor, and former academic researcher. I hold a **PhD in Physics (Chemical Physics)** and **Bachelor’s and Master’s degrees in Chemistry**.
-I now focus on helping students understand chemistry and physics with clarity, structure, and confidence.
+I’m a science educator, Mathematics, Chemistry and Physics teacher and tutor, and former academic researcher. I hold a **PhD in Physics (Chemical Physics)** and **Bachelor’s and Master’s degrees in Chemistry**.
+I now focus on helping students understand maths, chemistry and physics with clarity, structure, and confidence.
 
-I like to juggle my time between **education, technology, and communication**. I am especially interested in creating learning resources and digital tools that support **IB Chemistry and Physics students**.
+I like to juggle my time between **education, technology, and communication**. I am especially interested in creating learning resources and digital tools that support **Maths, Chemistry and Physics students**, in particular for IB and IGCSE curricula.
 
 My background includes:
 
-* Teaching and tutoring chemistry and physics, with a focus on the IB syllabus and exam preparation (but also MYP/GCSE maths)
+* Teaching and tutoring maths, chemistry and physics, with a focus on the IB and IGCSE syllabus and exam preparation
 * Explaining complex scientific concepts to students and non-specialist audiences
 * Academic research experience spanning Chemistry, Chemical Physics, and Astrophysics
 * Python development, technical documentation, and scientific writing
@@ -19,7 +19,7 @@ My background includes:
 This GitHub profile serves as a **hub** for my educational tools, science education projects, coding work, technical documentation, and scientific communication.
 It contains:
 
-* 🧪 Educational tools for IB Chemistry and Physics
+* 🧪 Educational tools for Maths, Chemistry and Physics
 * 🐍 Python projects and scientific computing
 * 📘 Technical writing and documentation
 * 📄 Academic and scientific writing
@@ -29,9 +29,9 @@ It contains:
 
 If you are visiting this profile as a student, parent, school, tutoring organization, or education-focused collaborator, here is a quick guide to navigating it:
 
-### Educational tools for IB Chemistry and Physics
+### Educational tools for Maths, Chemistry and Physics
 
-Visit [`ib-science-tools/`](https://github.com/interstellardrumbeat/ib-science-tools), the central hub for the free educational tools I develop to support IB Chemistry and Physics students.
+Visit [`ib-science-tools/`](https://github.com/interstellardrumbeat/ib-science-tools), the central hub for the free educational tools I develop to support students.
 
 Current projects include:
 
