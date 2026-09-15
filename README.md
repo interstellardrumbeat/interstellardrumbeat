@@ -3,29 +3,32 @@
 ### PhD in Physics (Chemical Physics)
 
 I’m a sciencist and educator. I hold a **PhD in Physics (Chemical Physics)** and **Bachelor’s and Master’s degrees in Chemistry**.
-I now focus on helping students understand maths, chemistry and physics with clarity, structure, and confidence.
 
 I like to juggle my time between **education, technology, and physics**. I am especially interested in creating learning resources and digital tools that support **Maths, Chemistry and Physics students**, in particular for IB and IGCSE curricula.
 
 My background includes:
 
-* Teaching and tutoring maths, chemistry and physics, with a focus on the IB and IGCSE syllabus and exam preparation
-* Explaining complex scientific concepts to students and non-specialist audiences
 * Academic research experience spanning Chemistry, Chemical Physics, and Astrophysics
 * Python development, technical documentation, and scientific writing
 * Developing free educational tools and learning resources for science students
+* Teaching and tutoring maths, chemistry and physics, with a focus on the IB and IGCSE syllabus and exam preparation
+* Explaining complex scientific concepts to students and non-specialist audiences
 * Creating long-form science communication content for general audiences
 
 This GitHub profile serves as a **hub** for my educational tools, science education projects, coding work, technical documentation, and scientific communication.
 It contains:
 
-* 🧪 Educational tools for Maths, Chemistry and Physics
 * 🐍 Python projects and scientific computing
 * 📘 Technical writing and documentation
 * 📄 Academic and scientific writing
+* 🧪 Educational tools for Maths, Chemistry and Physics
 * 🌐 Links to my science communication work
 
 ## How to Read My GitHub Profile
+
+### Python projects & scientific computing
+
+Visit [`python-projects/`](https://github.com/interstellardrumbeat/python-projects) for projects demonstrating practical Python usage, readable code, reproducible results, and supporting documentation.
 
 ### Educational tools for Maths, Chemistry and Physics
 
@@ -34,10 +37,6 @@ Visit [`ib-science-tools/`](https://github.com/interstellardrumbeat/ib-science-t
 Current projects include:
 
 * [`what-should-i-revise/`](https://github.com/interstellardrumbeat/what-should-i-revise) — a diagnostic self-assessment tool designed to help IB Chemistry students (and in the future Physics, too) identify which topics and subtopics they should prioritize for revision.
-
-### Python projects & scientific computing
-
-Visit [`python-projects/`](https://github.com/interstellardrumbeat/python-projects) for projects demonstrating practical Python usage, readable code, reproducible results, and supporting documentation.
 
 ### Technical writing & documentation
 
