@@ -1,11 +1,11 @@
 ## Domenico Prudenzano 👋
 
-### Teacher & Tutor | PhD in Physics (Chemical Physics)
+### PhD in Physics (Chemical Physics)
 
-I’m a science educator, Mathematics, Chemistry and Physics teacher and tutor, and former academic researcher. I hold a **PhD in Physics (Chemical Physics)** and **Bachelor’s and Master’s degrees in Chemistry**.
+I’m a sciencist and educator. I hold a **PhD in Physics (Chemical Physics)** and **Bachelor’s and Master’s degrees in Chemistry**.
 I now focus on helping students understand maths, chemistry and physics with clarity, structure, and confidence.
 
-I like to juggle my time between **education, technology, and communication**. I am especially interested in creating learning resources and digital tools that support **Maths, Chemistry and Physics students**, in particular for IB and IGCSE curricula.
+I like to juggle my time between **education, technology, and physics**. I am especially interested in creating learning resources and digital tools that support **Maths, Chemistry and Physics students**, in particular for IB and IGCSE curricula.
 
 My background includes:
 
@@ -26,8 +26,6 @@ It contains:
 * 🌐 Links to my science communication work
 
 ## How to Read My GitHub Profile
-
-If you are visiting this profile as a student, parent, school, tutoring organization, or education-focused collaborator, here is a quick guide to navigating it:
 
 ### Educational tools for Maths, Chemistry and Physics
 
