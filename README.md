@@ -2,9 +2,7 @@
 
 ### PhD in Physics
 
-I’m a sciencist and educator. I hold a **PhD in Physics** and **Bachelor’s and Master’s degrees in Chemistry**.
-
-I like to juggle my time between **education, technology, and physics**. I am especially interested in creating learning resources and digital tools that support **Maths, Chemistry and Physics students**, in particular for IB and IGCSE curricula.
+I’m a scientist and science communicator. I hold a **PhD in Physics** and **Bachelor’s and Master’s degrees in Chemistry**.
 
 My background includes:
 
