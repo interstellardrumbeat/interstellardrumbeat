@@ -1,8 +1,8 @@
 ## Domenico Prudenzano 👋
 
-### PhD in Physics (Chemical Physics)
+### PhD in Physics
 
-I’m a sciencist and educator. I hold a **PhD in Physics (Chemical Physics)** and **Bachelor’s and Master’s degrees in Chemistry**.
+I’m a sciencist and educator. I hold a **PhD in Physics** and **Bachelor’s and Master’s degrees in Chemistry**.
 
 I like to juggle my time between **education, technology, and physics**. I am especially interested in creating learning resources and digital tools that support **Maths, Chemistry and Physics students**, in particular for IB and IGCSE curricula.
 
