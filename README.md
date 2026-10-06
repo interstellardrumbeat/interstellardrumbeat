@@ -32,10 +32,6 @@ Visit [`python-projects/`](https://github.com/interstellardrumbeat/python-projec
 
 Visit [`ib-science-tools/`](https://github.com/interstellardrumbeat/ib-science-tools), the central hub for the free educational tools I develop to support students.
 
-Current projects include:
-
-* [`what-should-i-revise/`](https://github.com/interstellardrumbeat/what-should-i-revise) — a diagnostic self-assessment tool designed to help IB Chemistry students (and in the future Physics, too) identify which topics and subtopics they should prioritize for revision.
-
 ### Technical writing & documentation
 
 Visit:
