@@ -6,7 +6,7 @@ I’m a scientist and science communicator. I hold a **PhD in Physics** and **Ba
 
 My background includes:
 
-* Academic research experience spanning Chemistry, Chemical Physics, and Astrophysics
+* Academic research experience spanning Chemistry, Chemical Physics, Optics and Astrophysics
 * Python development, technical documentation, and scientific writing
 * Developing free educational tools and learning resources for science students
 * Teaching and tutoring maths, chemistry and physics, with a focus on the IB and IGCSE syllabus and exam preparation
